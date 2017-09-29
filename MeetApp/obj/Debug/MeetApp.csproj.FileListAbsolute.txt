@@ -1,0 +1,15 @@
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.csprojResolveAssemblyReference.cache
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.Properties.Resources.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.EstrazionePresentatoreForm.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.GestionePartecipantiForm.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.InserisciNuovoIncontroForm.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.MainForm.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.VisualizzaListaIncontriForm.resources
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.csproj.GenerateResource.Cache
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\bin\Debug\MeetApp.exe.config
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\bin\Debug\MeetApp.exe
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\bin\Debug\MeetApp.pdb
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.exe
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.pdb
+C:\Users\Vladut\source\repos\MeetApp\MeetApp\obj\Debug\MeetApp.View.AggiungiPartecipantiForm.resources

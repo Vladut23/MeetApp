@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<partecipanti>
+  <partecipante>
+    <nome>Mario</nome>
+    <cognome>Rossi</cognome>
+    <email>mr@gmail.com</email>
+  </partecipante>
+  <partecipante>
+    <nome>Andrea</nome>
+    <cognome>Costa</cognome>
+    <email>ac@live.it</email>
+  </partecipante>
+  <partecipante>
+    <nome>Maria</nome>
+    <cognome>Rossa</cognome>
+    <email>rm@live.it</email>
+  </partecipante>
+  <partecipante>
+    <nome>Daniela</nome>
+    <cognome>Conti</cognome>
+    <email>dc@gmail.com</email>
+  </partecipante>
+  <partecipante>
+    <nome>Alex</nome>
+    <cognome>Sandro</cognome>
+    <email>as@live.it</email>
+  </partecipante>
+  <partecipante>
+    <nome>Valerio</nome>
+    <cognome>Renzi</cognome>
+    <email>vr@gmail.com</email>
+  </partecipante>
+</partecipanti>
